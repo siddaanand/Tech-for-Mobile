@@ -4,7 +4,7 @@ Calculadora construído em React Native com Expo. A aplicação conta com tema l
 ## Screenshots
 * **Tema Light**
 
-![Calculadora React Native Light](https://github.com/brunomart97/CalculadoraReactNative/blob/main/img/img-light.jpg)
+![Calculator React Native Light](https://github.com/brunomart97/CalculadoraReactNative/blob/main/img/img-light.jpg)
 
 * **Tema Dark**
 
