@@ -1,27 +1,9 @@
-# Calculadora React Native
-## Sobre o projeto
-Calculadora construído em React Native com Expo. A aplicação conta com tema light e dark, e faz parte de um estudo pessoal em React Native.
-## Screenshots
-* **Tema Light**
+Calculator Applicatiomn
+![image](https://github.com/siddaanand/Tech-for-Mobile/assets/59169519/6c8a47b0-9abd-4e10-bfa1-5be2c8a4d3fe)
+![image](https://github.com/siddaanand/Tech-for-Mobile/assets/59169519/a30d066e-a549-4f77-8ad6-5ac7ab258a92)
 
-![Calculator React Native Light](https://github.com/brunomart97/CalculadoraReactNative/blob/main/img/img-light.jpg)
+Begin by setting up a new React Native project using Expo or React Native CLI.
+Render the calculator UI using React Native components
+Apply styles to the components to define styles for the container, buttons, text, etc. Customize the appearance according to your design preferences.
 
-* **Tema Dark**
-
-![Calculadora React Native Dark](https://github.com/brunomart97/CalculadoraReactNative/blob/main/img/img-dark.jpg)
-
-## Como usar?
-* Clone o repositório:
-````
-https://github.com/brunomart97/CalculadoraReactNative.git
-````
-* Navegue até a pasta do projeto via terminal e execute:
-````
-npm install
-````
-* Os arquivos de dependências serão baixados!
-* Após o download das dependências, baixe o Expo no seu celular e escaneie o QR Code que aparecerá no seu terminal ou execute por meio de um emulador.
-#### Contato:
-E-mail: brunomart97@hotmail.com
-
-**Obrigado!**
+Using the generated QR , scan the QR with the Android Application , so that the applications will render in the Android Device.
